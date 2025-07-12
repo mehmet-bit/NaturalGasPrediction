@@ -1,6 +1,6 @@
 # NaturalGasPrediction
 PredictionDescription
-# 🇺🇸 Natural Gas Consumption Forecasting Using ANFIS (MATLAB)
+# Natural Gas Consumption Forecasting Using ANFIS (MATLAB)
 
 This project presents a fuzzy logic-based approach to forecasting **daily national natural gas consumption** using an **Adaptive Neuro-Fuzzy Inference System (ANFIS)** in MATLAB.
 
