@@ -50,11 +50,6 @@ This project presents a fuzzy logic-based approach to forecasting **daily nation
 
 ---
 
-## 📁 Contents
-
-- `src/`: MATLAB code for training and testing the ANFIS model
-- `results/`: Saved `.fis` models
-- `figures/`: Plots and performance results
 
 ---
 
