@@ -41,7 +41,7 @@ This project presents a fuzzy logic-based approach to forecasting **daily nation
 - **MAE:** 0.0545  
 - **Rules Generated:** 243
 
-![Linear Regression](figures/Trimf3-3-33.png)
+![Linear Regression](Trimf3-3-33.png)
 ![Actual vs Predicted](figures/actual_vs_predicted_trimf.png)
 
 ### 🔹 Performance Comparison Table
