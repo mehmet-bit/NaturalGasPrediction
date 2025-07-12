@@ -22,6 +22,15 @@ This project presents a fuzzy logic-based approach to forecasting **daily nation
 
 > ✅ All features and output were **normalized** before training.
 
+Logic Consept 
+1. Step Open Matlab.
+2. >> train = [ ] ## creating empty board to add relavant 4 year data
+   >> test  = [ ] ## creating empty board to add relavant 5th year data to test our model
+   >> testin = [] ## creating empty board to add 5th year data without the output to run our model on one code to get numeric output
+  
+  
+  4. >> anfisedit ## Open ANFIS and  then we are inserting the train data. 
+   >> output = evalfis(testin,nationaltrimf.fis) ## Relevant code to get output of our model
 ---
 
 ## 🧠 Modeling Summary
