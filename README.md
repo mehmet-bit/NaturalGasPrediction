@@ -27,7 +27,9 @@ Logic Consept
 2. >> train = [ ] ## creating empty board to add relavant 4 year data
    >> test  = [ ] ## creating empty board to add relavant 5th year data to test our model
    >> testin = [] ## creating empty board to add 5th year data without the output to run our model on one code to get numeric output
-  
+3.Model Training
+  ![Train_Consept](Train.png)
+  ![model](model.png)
   
   4. >> anfisedit ## Open ANFIS and  then we are inserting the train data. 
    >> output = evalfis(testin,nationaltrimf.fis) ## Relevant code to get output of our model
@@ -51,7 +53,7 @@ Logic Consept
 - **Rules Generated:** 243
 
 ![Linear Regression](Trimf3-3-33.png)
-![Actual vs Predicted](actual_vs_predicted_trimf.png)
+![Actual vs Predicted](ActualVsPredicted.png)
 
 ### 🔹 Performance Comparison Table
 
