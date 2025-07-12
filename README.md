@@ -42,11 +42,11 @@ This project presents a fuzzy logic-based approach to forecasting **daily nation
 - **Rules Generated:** 243
 
 ![Linear Regression](Trimf3-3-33.png)
-![Actual vs Predicted](figures/actual_vs_predicted_trimf.png)
+![Actual vs Predicted](actual_vs_predicted_trimf.png)
 
 ### 🔹 Performance Comparison Table
 
-![Performance Table](figures/performance_table.png)
+![Performance Table](mYPROJECT.png)
 
 ---
 
