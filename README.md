@@ -25,8 +25,11 @@ This project presents a fuzzy logic-based approach to forecasting **daily nation
 Logic Consept 
 1. Step Open Matlab.
 2. >> train = [ ] ## creating empty board to add relavant 4 year data
+   
    >> test  = [ ] ## creating empty board to add relavant 5th year data to test our model
+   
    >> testin = [] ## creating empty board to add 5th year data without the output to run our model on one code to get numeric output
+
 3.Model Training
   ![Train_Consept](Train.png)
   ![model](model.png)
